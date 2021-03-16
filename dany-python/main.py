@@ -50,7 +50,7 @@ def plotstocks(df):
     return figure
 
 
-snp = pd.read_csv('/Users/anomitropaul/Desktop/snp10.csv',index_col=0)
+snp = pd.read_csv(',/snp10.csv',index_col=0)
 
 
 
